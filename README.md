@@ -1,4 +1,4 @@
-# Playbook
+# Playbook (also see the [CI/CD pipeline](https://github.com/4meyDam1e/playbook-ci-cd))
 
  
 
